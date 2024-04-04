@@ -1,3 +1,3 @@
-#Apollo setup
+# Apollo GraphQL
 
-This is a setup with examples easy to change. A good entrypoint for an apollo server backend.
+This folder contains the GraphQL implementation for the weather application server. It is using a weather API as a datasource, and uses the relevant data from it.
